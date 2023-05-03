@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QuickBlock": {
+      "commandName": "Project",
+      "commandLineArgs": "news.ycombinator.com\r\n"
+    }
+  }
+}
